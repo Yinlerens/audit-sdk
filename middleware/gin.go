@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
 
-	"audit-sdk/client"
+	"github.com/Yinlerens/audit-sdk/client"
 )
 
 // GinAuditMiddleware Gin框架审计中间件

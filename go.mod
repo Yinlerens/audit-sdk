@@ -1,4 +1,4 @@
-module audit-sdk
+module github.com/Yinlerens/audit-sdk
 
 go 1.23.5
 
